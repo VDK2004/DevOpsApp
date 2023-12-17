@@ -1,0 +1,11 @@
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\bin\Release\LibraryVoetbal.dll
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\bin\Release\LibraryVoetbal.pdb
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\bin\Release\Dapper.dll
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\bin\Release\System.Data.SQLite.dll
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\bin\Release\Dapper.xml
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\bin\Release\System.Data.SQLite.xml
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\obj\Release\LibraryVoetbal.csproj.AssemblyReference.cache
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\obj\Release\LibraryVoetbal.csproj.CoreCompileInputs.cache
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\obj\Release\LibraryVoetbal.csproj.CopyComplete
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\obj\Release\LibraryVoetbal.dll
+C:\Users\Vicde\Documents\School\DevOps & Security\WinformVoetbal\LibraryVoetbal\obj\Release\LibraryVoetbal.pdb
